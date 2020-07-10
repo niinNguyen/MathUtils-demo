@@ -10,5 +10,5 @@ This is repository contains a simple Java application used for demostration of C
 ## Connect me via
 1. [Facebook] (https://facebook.com/your.khoinguyen)
 2. [GitHub] (https://github.com/niinNguyen)
-
-### @2020 by niin
+3. [Email] (nguyennkse140132@fpt.edu.vn)
+### @2020 by niin | FPT University
